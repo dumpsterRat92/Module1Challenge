@@ -26,7 +26,7 @@ The Horiseon website is a platform that provides information about various servi
 
 To view this challenge completed visit:
 
-https://dumpsterrat92.github.io/Module1Challenge/Develop/
+[Link to Live Site](#https://dumpsterrat92.github.io/banana.sloth/)
 
 To use or contribute to this project, follow these steps:
 
