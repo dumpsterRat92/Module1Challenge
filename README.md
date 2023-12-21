@@ -2,10 +2,13 @@
 
 Welcome to the Horiseon website! This file contains the HTML code for the Horiseon Social Solution Services, Inc. website. This code is made to follow accessibility standards and improve SEO optimization.
 
+
+
 ## Table of Contents
 
 - [Description](#description)
 - [Features](#features)
+- [Screenshot](#screenshots)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -22,6 +25,10 @@ The Horiseon website is a platform that provides information about various servi
 - Clear and descriptive title for SEO optimization.
 - Responsive design for a better user experience across devices.
 
+## Screenshots
+
+![Screenshot](assets/images/screencapture-dumpsterrat92-github-io-banana-sloth-2023-12-21-16_12_04.png)
+
 ## Usage
 
 To view this challenge completed visit:
@@ -30,7 +37,7 @@ To view this challenge completed visit:
 
 To use or contribute to this project, follow these steps:
 
-1. Clone the repository: git@github.com:dumpsterRat92/Module1Challenge.git
+1. Clone the repository here: [Clone Repo](#git@github.com:dumpsterRat92/banana.sloth.git)
 2. Open the project in VSCode.
 3. Explore and modify the HTML, CSS, or any other assets as needed.
 4. Test the website for accessibility and responsiveness.
