@@ -33,11 +33,11 @@ The Horiseon website is a platform that provides information about various servi
 
 To view this challenge completed visit:
 
-[Link to Live Site](#https://dumpsterrat92.github.io/banana.sloth/)
+Link to Live Site: https://dumpsterrat92.github.io/banana.sloth/
 
 To use or contribute to this project, follow these steps:
 
-1. Clone the repository here: [Clone Repo](#git@github.com:dumpsterRat92/banana.sloth.git)
+1. Clone the repository here:  git@github.com:dumpsterRat92/banana.sloth.git
 2. Open the project in VSCode.
 3. Explore and modify the HTML, CSS, or any other assets as needed.
 4. Test the website for accessibility and responsiveness.
