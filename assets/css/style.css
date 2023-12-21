@@ -39,7 +39,7 @@ body {
     list-style-type:none;
     
 }
-
+/* Header ul li*/
 .header ul li {
     display: inline-block;
     margin-left: 25px;
