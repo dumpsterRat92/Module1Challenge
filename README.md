@@ -27,7 +27,7 @@ The Horiseon website is a platform that provides information about various servi
 
 ## Screenshots
 
-![Screenshot](assets/images/screencapture-dumpsterrat92-github-io-banana-sloth-2023-12-21-16_12_04.png)
+![Screenshot]()
 
 ## Usage
 
